@@ -1,1 +1,4 @@
 # nrc2021-open-polymetric
+# Lovette, Tarini, Hong En
+Our project is about explaining how piezeoelectric powered cars would be possible in the future.
+Our intention lies in developing a self-powering vehicles that is reliant on kinetic gained which allows electricity gained from other sources to be saved. Expected results include energy from the steering wheel/break/gas pedal/wheels through piezoelectric/kinetic energy being harnessed and used to power the car, becoming self-sustaining and capable of storing energy. Benefits are but not limited to excessive energy no longer being needed to power car/vehicles. A summary of the operation is when pressure is applied to the steering wheel/break/gas pedal/wheels, piezoelectric/kinetic energy would be harnessed and used for the car. Kinetic energy/Piezoelectricity has previously been used to power low-power devices and have also been used in lighters to generate a spark.
